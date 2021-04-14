@@ -3,7 +3,7 @@ from threading import Thread
 
 FORBIDDEN_EXTENSIONS = ['.ini', '.cs', '.asi', '.cleo', '.sf']
 FORBIDDEN_PROCESSES = ['aimbot.exe', 'proccesshacker.exe', 'resourcehacker.exe', 'tcpview.exe', 'notepad.exe']
-#keys_processes = ['aim', 'aimbot', 'hack', 'hacker']
+
 CHECKSUMS = {
     'bass.dll': '3F04620D6627ABE5C3B4747FAF26603AB7A006C81B2021AB4689BDD7033BB4CD',
     'eax.dll': 'B2DA4F1E47EF8054C8390EAD0B97D1FBB0C547245B79B8861CFA92CE9EF153FB',
